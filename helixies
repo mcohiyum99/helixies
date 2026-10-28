@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+    .about {
+      padding: 10px;
+  }.Helixies{
+  padding: 10px;
+  }
+  .warning{
+  padding: 100px;
+  }</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Helixies Github</title>
+</head>
+<body>
+    <h1 class="Helixies">Helixies™</h1>
+  
+    <p>The helixies cereal is a delicious cereal that has an amazing, sugary crunch filling every bite with fun!</p>
+  
+  <h1 class="about">About the creator</h1>
+  
+  <p>The creator of Helixies, Lyle Fenton is a well-known chef who uses high quality, fresh ingredients to create amazing cereals such as this one! He uses absolutley zero artificial sweetners to ensure his customers live a healthy life. </p>
+  
+  <p>try Helixies today for a delicious, sugary, and most importantly healty crunch!</p>
+  
+  <p class="warning">Disclaimer: This product is not actually trademarked and is simply a school project. Helixies does not actually exist.</p>
+</body>
+</html>
